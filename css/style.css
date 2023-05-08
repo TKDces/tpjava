@@ -132,7 +132,7 @@ div[id] {
 }
 
 .card {
-    box-shadow: 0px 4px 8px 0 #5d81ad;
+    box-shadow: 0px 4px 8px 0 #970a0a;
     max-width: 300px;
     text-align: center;
     font-family: sans-serif;
@@ -205,9 +205,9 @@ div[id] {
 }
 
 .modal-header-title:hover {
-    color: #00aaff;
+    color: #970a0a;
     BORDER-BOTTOM-STYLE: OUTSET;
-    border-color: #00aaff;
+    border-color: #970a0a;
 }
 
 .modal-header-button {
@@ -306,11 +306,11 @@ fieldset {
     display: inline;
     
     border: outset;
-    border-color: #00aaff;
+    border-color: #970a0a;
     border-style: double;
     
     padding: 40px;
-    box-shadow: 0px 68px 100px 0 #074476a0;
+    box-shadow: 0px 68px 100px 0 #970a0a;
     text-align: center;
 }
 
@@ -320,7 +320,7 @@ fieldset {
 }
 
 .p-form span {
-    color: #00aaff;
+    color: #970a0a;
     
 }
 
@@ -483,15 +483,9 @@ fieldset {
 
     /*productos*/
 
-
-
     .card {
         max-width: 200px;
     }
-
- 
-
-
 
     /*carrito*/
 
@@ -527,11 +521,6 @@ fieldset {
     .main-index-section-marcas {
         padding: 30px;
     }
-
-    /*productos*/
-
-
-
 
     .card {
         max-width: 200px;
@@ -605,7 +594,7 @@ fieldset {
     }
     
     .span {
-        color: #00aaff;
+        color: #970a0a;
     }
     
     .main-index-section p {
@@ -633,7 +622,7 @@ fieldset {
     
 
     .card {
-        box-shadow: 0px 4px 8px 0 #5d81ad;
+        box-shadow: 0px 4px 8px 0 #970a0a;
         max-width: 300px;
         text-align: center;
         font-family: sans-serif;
@@ -706,7 +695,7 @@ fieldset {
     }
     
     .modal-header-title:hover {
-        color: #00aaff;
+        color: #970a0a;
         BORDER-BOTTOM-STYLE: OUTSET;
         border-color: #00aaff;
     }
@@ -803,7 +792,7 @@ fieldset {
     }
     
     .p-form span {
-        color: #00aaff;
+        color: #970a0a;
     }
     
     .title-form {
