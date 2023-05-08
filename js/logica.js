@@ -67,7 +67,7 @@ function mostrarProductos(container, productos) {
 };
 
 
-function filtrarMostrarcompu() {
+function filtrarMostrargorras() {
     const contenedorgorras = document.getElementById("gorras");
     const productosFiltrado = productos.filter(p => p.categoria === 'gorras');
 
@@ -87,7 +87,7 @@ function filtrarMostrarRemera() {
     mostrarProductos(contenedorRemera, productosFiltrado)
 }
 
-filtrarMostrarcompu();
+filtrarMostrargorras();
 filtrarMostrarShort();
 filtrarMostrarRemera();
 
